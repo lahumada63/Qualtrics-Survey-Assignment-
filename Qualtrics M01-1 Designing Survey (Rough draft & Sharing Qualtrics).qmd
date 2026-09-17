@@ -28,4 +28,4 @@ editor: visual
 
 [GitHub Repo](https://github.com/lahumada63/Qualtrics-Survey-Assignment-.git)
 
-Github Pages
+[Github Pages](https://lahumada63.github.io/Qualtrics-Survey-Assignment-/)
