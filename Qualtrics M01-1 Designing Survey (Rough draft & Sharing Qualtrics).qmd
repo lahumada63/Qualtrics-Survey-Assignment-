@@ -1,0 +1,31 @@
+---
+title: "Qualtrics M01-1Designing Survey (Rough draft & Sharing Qualtrics)"
+author: "Luis Ahumada"
+format:
+  html:
+    embed-resources: true
+output-file: index.html
+editor: visual
+---
+
+## Proof of Shared Survey
+
+![](images/Screenshot shared with Dr Jung.png)
+
+## Beginning of Survey
+
+![](images/Beginning Screenshot.png)
+
+## Middle
+
+![](images/Middle.png)
+
+## End
+
+![](images/End.png)
+
+## Appendix
+
+[GitHub Repo](https://github.com/lahumada63/Qualtrics-Survey-Assignment-.git)
+
+Github Pages
